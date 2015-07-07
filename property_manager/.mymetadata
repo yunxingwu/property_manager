@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="property_manager"
+  id="myeclipse.1393919029365"
+  context-root="/property_manager"
+  j2ee-spec="6.0"
+  archive="property_manager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
